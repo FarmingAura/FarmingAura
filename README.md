@@ -94,10 +94,10 @@ Available for freelance / collab work
 
 <div align="center">
 
-<a href="https://github.com/FarmingAura/REPO_ONE">
+<a href="https://github.com/FarmingAura/FarmingAura">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=FarmingAura&repo=REPO_ONE&hide_border=true&bg_color=08090a&title_color=ffffff&icon_color=8b8b8b&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/FarmingAura/REPO_TWO">
+<a href="https://github.com/FarmingAura/c0ld3d">
   <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=FarmingAura&repo=REPO_TWO&hide_border=true&bg_color=08090a&title_color=ffffff&icon_color=8b8b8b&text_color=c9d1d9" />
 </a>
 
