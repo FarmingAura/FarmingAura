@@ -103,7 +103,7 @@ Available for freelance / collab work
 
 </div>
 
-> Replace `REPO_ONE` / `REPO_TWO` with your actual repo names.
+
 
 <br/>
 
